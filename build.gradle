@@ -1,0 +1,8 @@
+// ...
+repositories {
+    maven { url 'https://jitpack.io' }
+}
+// ...
+dependencies {
+    implementation 'com.github.silverwolfg11:Pl3xMap-Towny:v1.0.0-alpha-3'
+}
